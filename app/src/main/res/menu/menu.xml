@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/carStatus"
+        android:title="车辆状态">
+    </item>
+    <item
+        android:id="@+id/offlineMap"
+        android:title="离线地图">
+    </item>
+    <item
+        android:id="@+id/changeStyle"
+        android:title="更改地图风格">
+    </item>
+<!--    <item-->
+<!--        android:id="@+id/stagger_view"-->
+<!--        android:title="null">-->
+<!--        <menu>-->
+<!--            <item-->
+<!--                android:id="@+id/stagger_view_vertical_stander"-->
+<!--                android:title="1" />-->
+<!--            <item-->
+<!--                android:id="@+id/stagger_view_vertical_reverse"-->
+<!--                android:title="2" />-->
+<!--            <item-->
+<!--                android:id="@+id/stagger_view_horizontal_stander"-->
+<!--                android:title="3" />-->
+<!--            <item-->
+<!--                android:id="@+id/stagger_view_horizontal_reverse"-->
+<!--                android:title="4" />-->
+<!--        </menu>-->
+<!--    </item>-->
+</menu>
